@@ -1,0 +1,8 @@
+path: ../
+train: training/images
+val: valid/images
+
+names:
+  0: chimney
+
+kpt_shape: [2, 3]
